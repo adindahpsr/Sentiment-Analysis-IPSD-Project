@@ -1,1 +1,3 @@
 # Sentiment-Analysis-IPSD-Project
+
+Project ini berisi scraping data review Google Play Store pengguna aplikasi Digital Korlantas Polri. Data yang ada kemudian diolah melalui proses ETL untuk dibersihkan dan dipilah. Dalam pendekatan leksikon (Lexicon-based Approach), analisis dilakukan dengan membandingkan kata-kata dalam ulasan dengan kamus kata-kata yang telah diberi nilai sentimen tertentu (misalnya, kata-kata positif seperti "baik" atau negatif seperti "buruk"). Setiap kata yang ditemukan dalam teks akan memberikan kontribusi skor yang dihitung untuk menghasilkan nilai keseluruhan. Berdasarkan skor ini, ulasan dapat dikategorikan sebagai positif, negatif, atau netral. Hasil akhirnya berupa visualisasi.
